@@ -1,0 +1,6 @@
+{
+  "name": "Grocery Notebook",
+  "description": "A modern, collaborative, offline-first grocery list application designed like a sunlit digital notebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

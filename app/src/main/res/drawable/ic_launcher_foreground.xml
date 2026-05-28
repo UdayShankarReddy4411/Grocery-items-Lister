@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Bold Minimal Shopping Basket/Bag representing Notebook -->
+    <path
+        android:fillColor="#111111"
+        android:pathData="M32,40 L36,68 C36.5,71 39,73 42,73 L66,73 C69,73 71.5,71 72,68 L76,40 Z" />
+    
+    <!-- Robust Handle of the Basket, centered beautifully -->
+    <path
+        android:strokeColor="#111111"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M42,40 C42,24 66,24 66,40" />
+        
+    <!-- Notebook Lined Grids on the Basket (vibrant sunlit yellow lines) -->
+    <path
+        android:strokeColor="#f5e342"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 42,49 H 66 M 44,57 H 64 M 46,65 H 62" />
+</vector>
